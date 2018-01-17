@@ -1,12 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>folder-music-symbolic</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder-music-symbolic" fill-rule="nonzero" fill="#303030">
-            <path d="M5.95737724,5.44758067 L5.95737724,12.5000593 C5.95737724,12.5477883 5.95068963,12.5939554 5.93820033,12.6376745 C5.9786033,12.7816069 6,12.9322781 6,13.0882143 C6,14.2291414 4.8545695,15.0882143 3.5,15.0882143 C2.1454305,15.0882143 1,14.2291414 1,13.0882143 C1,11.9472871 2.1454305,11.0882143 3.5,11.0882143 C4.03843922,11.0882143 4.54383344,11.2239521 4.95737724,11.4591744 L4.95737724,4.75005927 L4.95737724,2.50005927 C4.95737724,2.24528467 5.14894514,2.03125256 5.40216148,2.00311741 L14.4021615,1.00311741 C14.6983444,0.970208188 14.9573772,1.20205363 14.9573772,1.50005927 L14.9573772,3.75005927 L14.9573772,11.5000593 C14.9573772,11.5484069 14.9505152,11.5951518 14.9377118,11.6393731 C14.9778386,11.7828451 14.9990846,11.9330033 14.9990846,12.0883895 C14.9990846,13.2293166 13.8536541,14.0883895 12.4990846,14.0883895 C11.1445151,14.0883895 9.99908464,13.2293166 9.99908464,12.0883895 C9.99908464,10.9474623 11.1445151,10.0883895 12.4990846,10.0883895 C13.0379212,10.0883895 13.543664,10.2243277 13.9573772,10.4598706 L13.9573772,4.55869178 L5.95737724,5.44758067 Z M12.4990846,13.0883895 C13.3536541,13.0883895 13.9990846,12.6043166 13.9990846,12.0883895 C13.9990846,11.5724623 13.3536541,11.0883895 12.4990846,11.0883895 C11.6445151,11.0883895 10.9990846,11.5724623 10.9990846,12.0883895 C10.9990846,12.6043166 11.6445151,13.0883895 12.4990846,13.0883895 Z M3.5,14.0882143 C4.3545695,14.0882143 5,13.6041414 5,13.0882143 C5,12.5722871 4.3545695,12.0882143 3.5,12.0882143 C2.6454305,12.0882143 2,12.5722871 2,13.0882143 C2,13.6041414 2.6454305,14.0882143 3.5,14.0882143 Z M5.95737724,2.94758067 L5.95737724,4.44142677 L13.9573772,3.55253788 L13.9573772,2.05869178 L5.95737724,2.94758067 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-music.svg">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="90.509668"
+     inkscape:cx="12.879827"
+     inkscape:cy="11.177254"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="2"
+       originx="-3"
+       originy="-3.0000174" />
+    <sodipodi:guide
+       position="0,14.999983"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)" />
+    <sodipodi:guide
+       position="0,0.9999826"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)" />
+    <sodipodi:guide
+       position="8,-1.74e-05"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
+    <sodipodi:guide
+       position="17,7.9999826"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3,-1033.3622)">
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 13.511719 2 A 0.50005 0.50005 0 0 0 13.378906 2.015625 L 5.3789062 4.015625 A 0.50022978 0.50022978 0 0 0 5 4.4882812 A 0.50022978 0.50022978 0 0 0 5 4.5 L 5 7.3828125 L 5 7.6289062 L 5 11.271484 A 2 2 0 0 0 4 11 A 2 2 0 0 0 2 13 A 2 2 0 0 0 4 15 A 2 2 0 0 0 6 13 L 6 7.8847656 L 13 6.046875 L 13 9.2714844 A 2 2 0 0 0 12 9 A 2 2 0 0 0 10 11 A 2 2 0 0 0 12 13 A 2 2 0 0 0 14 11 L 14 5.4941406 L 14 5.2949219 L 14 2.5683594 L 14 2.5 L 14 2.4355469 A 0.50005 0.50005 0 0 0 13.511719 2 z M 13 3.140625 L 13 5.0136719 L 6 6.8515625 L 6 4.890625 L 13 3.140625 z M 12 10 A 1.0000025 1.0000025 0 0 1 13 11 A 1.0000025 1.0000025 0 0 1 12 12 A 1.0000025 1.0000025 0 0 1 11 11 A 1.0000025 1.0000025 0 0 1 12 10 z M 4 12 A 1.0000025 1.0000025 0 0 1 5 13 A 1.0000025 1.0000025 0 0 1 4 14 A 1.0000025 1.0000025 0 0 1 3 13 A 1.0000025 1.0000025 0 0 1 4 12 z "
+       transform="translate(3,1033.3622)"
+       id="rect3198" />
+  </g>
 </svg>

@@ -1,12 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>help-contents</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="help-contents" fill="#303030">
-            <path d="M11.1411765,4 C9.82352941,4 8.78823529,4.40366972 8.03529412,5.24770642 C7.35764706,6.01834862 7,7.00917431 7,8.25688073 L8.12941176,8.25688073 C8.12941176,7.30275229 8.35529412,6.53211009 8.80705882,5.98165138 C9.31529412,5.32110092 10.0682353,4.99082569 11.0847059,4.99082569 C11.9694118,4.99082569 12.6658824,5.21100917 13.1552941,5.68807339 C13.6070588,6.14678899 13.8517647,6.7706422 13.8517647,7.55963303 C13.8517647,8.11009174 13.6447059,8.62385321 13.2494118,9.11926606 C13.0988235,9.30275229 12.7976471,9.59633028 12.3835294,10 C11.48,10.7706422 10.9152941,11.4495413 10.6517647,12 C10.4258824,12.440367 10.3129412,12.9357798 10.3129412,13.4678899 L10.3129412,14 L11.4611765,14 L11.4611765,13.4678899 C11.4611765,12.9541284 11.5929412,12.4954128 11.8564706,12.0550459 C12.0447059,11.7431193 12.3458824,11.3944954 12.7976471,11.0091743 C13.5882353,10.3119266 14.0776471,9.85321101 14.2847059,9.59633028 C14.7552941,8.99082569 15,8.29357798 15,7.52293578 C15,6.4587156 14.6611765,5.6146789 13.9835294,4.99082569 C13.2682353,4.33027523 12.3270588,4 11.1411765,4 Z M11,16 C10.7254902,16 10.4705882,16.08 10.2745098,16.28 C10.0784314,16.46 10,16.7 10,17 C10,17.28 10.0784314,17.5 10.2745098,17.7 C10.4705882,17.9 10.7254902,18 11,18 C11.2745098,18 11.5098039,17.9 11.7058824,17.72 C11.9019608,17.52 12,17.28 12,17 C12,16.7 11.9019608,16.46 11.7058824,16.28 C11.5098039,16.08 11.2745098,16 11,16 Z" id="？"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="help-contents.svg">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="37.5"
+     inkscape:cx="11"
+     inkscape:cy="12.066667"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="2" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)" />
+    <sodipodi:guide
+       position="0,2"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)" />
+    <sodipodi:guide
+       position="11,0"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
+    <sodipodi:guide
+       position="15,11"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 11 2 A 9 9 0 0 0 5.3847656 3.9765625 L 4.7089844 3.3007812 A 0.99617833 0.99615469 0 0 0 3.9960938 3 A 0.99617833 0.99615469 0 0 0 3.3007812 4.7089844 L 3.9726562 5.3808594 A 9 9 0 0 0 2 11 A 9 9 0 0 0 3.9765625 16.613281 L 3.3007812 17.289062 A 0.99617833 0.99615469 0 0 0 3.9960938 19 A 0.99617833 0.99615469 0 0 0 4.7089844 18.699219 L 5.3808594 18.027344 A 9 9 0 0 0 11 20 A 9 9 0 0 0 16.615234 18.023438 L 17.285156 18.693359 A 0.99617833 0.99615469 0 1 0 18.693359 17.285156 L 18.027344 16.619141 A 9 9 0 0 0 20 11 A 9 9 0 0 0 18.023438 5.3847656 L 18.693359 4.7148438 A 0.99617833 0.99615469 0 1 0 17.285156 3.3066406 L 16.619141 3.9726562 A 9 9 0 0 0 11 2 z M 11 4 A 7 7 0 0 1 15.189453 5.4023438 L 13.757812 6.8320312 A 5 5 0 0 0 11 6 A 5 5 0 0 0 8.2421875 6.8339844 L 6.8105469 5.4023438 A 7 7 0 0 1 11 4 z M 5.4023438 6.8105469 L 6.8339844 8.2421875 A 5 5 0 0 0 6 11 A 5 5 0 0 0 6.8339844 13.757812 L 5.4023438 15.189453 A 7 7 0 0 1 4 11 A 7 7 0 0 1 5.4023438 6.8105469 z M 16.597656 6.8105469 A 7 7 0 0 1 18 11 A 7 7 0 0 1 16.597656 15.189453 L 15.166016 13.757812 A 5 5 0 0 0 16 11 A 5 5 0 0 0 15.166016 8.2421875 L 16.597656 6.8105469 z M 11 8 A 3 3 0 0 1 14 11 A 3 3 0 0 1 11 14 A 3 3 0 0 1 8 11 A 3 3 0 0 1 11 8 z M 8.2421875 15.166016 A 5 5 0 0 0 11 16 A 5 5 0 0 0 13.757812 15.166016 L 15.189453 16.597656 A 7 7 0 0 1 11 18 A 7 7 0 0 1 6.8105469 16.597656 L 8.2421875 15.166016 z "
+       transform="translate(0,1030.3622)"
+       id="path4141" />
+  </g>
 </svg>
