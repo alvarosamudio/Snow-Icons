@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Snow Icons
+Name=Snow
 Comment=icon theme for deepin
-Inherits=
+Inherits=deepin,Papirus
 
 Example=x-directory-normal
 
