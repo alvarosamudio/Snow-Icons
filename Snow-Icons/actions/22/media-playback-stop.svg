@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
-   sodipodi:docname="media-playback-stopp.svg">
+   sodipodi:docname="media-playback-stop.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="9.339994"
-     inkscape:cy="7.0980286"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.7323878"
+     inkscape:cy="6.9800514"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,7 +45,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="732"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -101,13 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
-       d="m 11,1032.3622 c 4.970563,0 9,4.0294 9,9 0,4.9706 -4.029437,9 -9,9 -4.9705627,0 -9,-4.0294 -9,-9 0,-4.9706 4.0294373,-9 9,-9 z"
-       id="path833"
-       inkscape:connector-curvature="0" />
-    <polygon
-       transform="matrix(1.6,0,0,1.6,-6.6,1023.7622)"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0625;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="Rectangle-4"
-       points="13.5,13.5 8.5,13.5 8.5,8.5 13.5,8.5 " />
+       d="M 11 2 C 6.0294373 2 2 6.0294 2 11 C 2 15.9706 6.0294373 20 11 20 C 15.970563 20 20 15.9706 20 11 C 20 6.0294 15.970563 2 11 2 z M 7 7 L 15 7 L 15 15 L 7 15 L 7 7 z "
+       transform="translate(0,1030.3622)"
+       id="path833" />
   </g>
 </svg>

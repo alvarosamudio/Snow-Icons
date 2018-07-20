@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="732"
      id="namedview60"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-101.44694"
+     inkscape:cx="-13.126654"
      inkscape:cy="177.29866"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -102,13 +102,26 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4570"
-       id="linearGradient4572"
+       xlink:href="#linearGradient853"
+       id="linearGradient855"
+       x1="30"
+       y1="1112.5197"
+       x2="30"
+       y2="1042.5197"
        gradientUnits="userSpaceOnUse"
-       x1="127.81297"
-       y1="45.006836"
-       x2="127.83348"
-       y2="188.90306" />
+       gradientTransform="matrix(7.3846154,0,0,2.8468909,-108.30769,-3002.5)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient853">
+      <stop
+         style="stop-color:#81d4fa;stop-opacity:1;"
+         offset="0"
+         id="stop849" />
+      <stop
+         style="stop-color:#81d4fa;stop-opacity:0;"
+         offset="1"
+         id="stop851" />
+    </linearGradient>
   </defs>
   <g
      id="Page-1"
@@ -161,17 +174,16 @@
          d="M26,45.0025716 C26,43.3442971 27.3430541,42 29.0021394,42 L226.997866,42 C228.655902,42 230.000005,43.3479845 230.000005,45.0025716 L230,172.997428 C230,174.655703 228.656946,176 226.997861,176 L29.0021393,176 C27.3441036,176 26,174.652016 26,172.997428 L26,45.0025716 Z"
          id="Rectangle-7"
          fill="#000000" />
-      <rect
-         id="rect28"
-         x="32"
-         y="48"
-         width="192"
-         height="122"
-         fill="url(#linearGradient-2)"
-         style="fill-opacity:1;fill:url(#linearGradient4572)" />
       <g
          id="Group"
          transform="translate(32.000000, 80.000000)" />
     </g>
   </g>
+  <rect
+     style="opacity:1;fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:9.49171734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4369"
+     width="192"
+     height="122"
+     x="32"
+     y="48" />
 </svg>
